@@ -694,3 +694,50 @@ background-color: #F2C930;
   font-weight: 400;
   color: #4AAFD2;
 }
+
+/*faqs.html*/
+.faqs{
+  background-color: #4AAFD2;
+}
+.faqs .Questions{
+  position: absolute;
+  top: 20%;
+  font-family: 'Antic Didone';
+  font-size: 20px;
+}
+.faqs .rect1{
+  position:absolute;
+  top: 10%;
+  left: 20px;
+  height: 160px;
+  border: 0;
+  width: 70px;
+  background: #27688B; 
+}
+.faqs .rect2{
+  position:absolute;
+  top: 50%;
+  right: 20px;
+  height: 200px;
+  border: 0;
+  width: 40px;
+  background: #F2C930;  
+}
+.faqs .rect3{
+  position: absolute;
+  width: 161px;
+  height: 50px;
+  left: 0;
+  top: 70%;
+  border:0;
+  background: #DE3C31;
+}
+.faqs .rect4{
+  position: absolute;
+  width: 161px;
+  height: 50px;
+  right: 0;
+  top: 10%;
+  border:0;
+  background: #DE3C31; 
+}
